@@ -1,7 +1,7 @@
 from behave import given, when, then
 
-MATRICULA_VALIDA = "12345"
-SENHA_VALIDA = "abc123"
+MATRICULA_VALIDA = "114400"
+SENHA_VALIDA = "teste007"
 
 @given('que o usuário acessa a tela de login')
 def step_given(context):
